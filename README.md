@@ -1,2 +1,2 @@
 # projeto-colaborativo
-Repositório para praticar colaboração no GitHub
+Este projeto consiste em criar repositório para praticar colaboração no GitHub
